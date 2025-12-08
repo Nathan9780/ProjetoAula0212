@@ -1,4 +1,4 @@
-import React from 'react'
+import'/src/CSS/pagesobre.css/'
 
 function PageSobre() {
   return (
