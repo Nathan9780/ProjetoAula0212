@@ -11,9 +11,9 @@ function Header() {
 
         <nav className="nav-menu">
             <a href="#inicio" className="nav-link">Inicio</a>
-            <a href="#inicio" className="nav-link">Sobre</a>
-            <a href="#inicio" className="nav-link">Produtos</a>
-            <a href="#inicio" className="nav-link">Contato</a>
+            <a href="#Sobre" className="nav-link">Sobre</a>
+            <a href="#Produtos" className="nav-link">Produtos</a>
+            <a href="#Contato" className="nav-link">Contato</a>
         </nav>
       </header>
    

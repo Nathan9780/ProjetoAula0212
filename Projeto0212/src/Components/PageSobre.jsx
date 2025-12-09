@@ -2,7 +2,7 @@ import'/src/CSS/pagesobre.css/'
 
 function PageSobre() {
   return (
-   <section id='about' className="section-card-container">
+   <section id='Sobre' className="section-card-container">
     <h2 className='section-title-center'>Nossa equipe</h2>
     <p className='about-paragraph'>conheça os profissionais por trás da nossa empresa</p>
     <ul className='about-list'>

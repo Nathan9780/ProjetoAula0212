@@ -3,7 +3,7 @@ import "/src/CSS/carrosel.css"
 function Carrosel() {
   return (
     <div className="carrossel-container">
-      <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5hdHVyZXphfGVufDB8fDB8fHww" alt="" className="carrossel-image" />
+      <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/2220354-game-vector-trendy-banner-vetor.jpg" alt="" className="carrossel-image" />
 
     </div>
   )

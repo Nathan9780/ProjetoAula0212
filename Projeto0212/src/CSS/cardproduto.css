@@ -3,9 +3,10 @@
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 8px;
-    width: 300px;
+    width: 200px;
     text-align: center;
     margin: 10px;
+   
 }
 .card-image {
 width: 100%;
@@ -33,4 +34,5 @@ margin-bottom: 10px;
     cursor: pointer;
     margin-top: 8px;
     font-size: 13px;
+    width: 100%;
 }
